@@ -1,6 +1,6 @@
 # Docker-WordPress-Ext
 
-Dockerを利用してWordPressのテーマ・プラグイン開発用のテンプレートです。
+Dockerを利用してWordPressのテーマ・プラグインを開発するためのテンプレートです
 
 ## How to use
 
