@@ -11,6 +11,7 @@ services:
             MYSQL_DATABASE: wordpress
             MYSQL_USER: wordpress
             MYSQL_PASSWORD: wordpress
+            WORDPRESS_DEBUG: 1
     
     wordpress:
         depends_on:
